@@ -1,3 +1,3 @@
 # Audit-Checklists
 
-Use checklists to systematically and multidimensionally analyze projects
+Use checklists to systematically and multidimensionally analyze projects.
