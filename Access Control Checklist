@@ -1,0 +1,13 @@
+1. The mapping XXX is critical. Can I tamper with it?
+
+
+2. The state variable XXX is critical. Can I tamper with it?
+
+
+3. The function XXX is critical. Can I tamper with it?
+
+
+4. The function XXX's parameters are critical. Can I feed some malicious inputs? (The FEGex Exploit) 
+
+
+
