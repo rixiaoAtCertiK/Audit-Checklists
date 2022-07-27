@@ -1,7 +1,7 @@
-1. Draw the proxy's and implementation contract's storage structure. Any storage collisions? (The Audius Exploit)
+1. Draw the proxy and implementation contract's storage structure. Any storage collisions? (The Audius Exploit)
 
 
-2. Draw the proxy's and implementation contract's storage structure. Ensure the state variables `initialized` and `initializing` are not always true. 
+2. Draw the proxy and implementation contract's storage structure. Ensure the state variables `initialized` and `initializing` are not always true. 
    Can I call the function initialize() more than once? (The Audius Exploit)
    
    
